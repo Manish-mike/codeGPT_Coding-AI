@@ -5,3 +5,4 @@ CodeGPT interacts in a conversational way. The dialogue format makes it possible
 
 Technology used is HTML, CSS, Vanilla JS, Express Js and node js as a backend server.
 It uses Api provided by OpenAI. 
+![Screenshot 2023-02-23 at 11 55 22 PM](https://user-images.githubusercontent.com/85367888/221146468-f08d49a0-fee0-492e-a30f-ea02baf7e586.png)
